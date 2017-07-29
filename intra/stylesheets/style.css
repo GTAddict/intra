@@ -1,0 +1,209 @@
+html {height:100%; width:100%;}
+
+body {height:100%; width:100%; margin:0; border:0; padding:0; background:#726a6a; font: 19px Corbel,Calibri,Cambria,sans-serif; }
+
+#navigation
+{
+margin: 0 0 0 0;
+padding: 0 0 0 0;
+width:253px;
+}
+
+#adspace
+{
+float:right;
+margin: 0 0 0 0;
+width:160px;
+height:600px;
+}
+
+#content
+{
+padding-top:0px;
+padding-left: 10px;
+margin-right:160px;
+position:absolute;
+top: 0px;
+left: 254px;
+}
+
+#h1
+{
+padding-top:15px;
+padding-bottom:15px;
+text-align:center;
+font-size:30px;
+text-decoration:underline;
+}
+
+#navigation li
+{
+display:inline;
+}
+
+#navigation li a
+{
+background-image:url(../images/LeftBar.png);
+display:block;
+}
+
+.lostfound
+{
+background-position:0px 0px;
+width:252px;
+height:71px;
+}
+
+.timetables
+{
+background-position:0px -71px;
+width:252px;
+height:71px;
+}
+
+.desk
+{
+background-position:0px -142px;
+width:252px;
+height:71px;
+}
+
+.dating
+{
+background-position:0px -213px;
+width:252px;
+height:71px;
+}
+
+.buysell
+{
+background-position:0px -284px;
+width:252px;
+height:71px;
+}
+
+.study
+{
+background-position:0px -355px;
+width:252px;
+height:71px;
+}
+
+.buzz
+{
+background-position:0px -426px;
+width:252px;
+height:71px;
+}
+
+.gamesquizzes
+{
+background-position:0px -497px;
+width:252px;
+height:71px;
+}
+
+.radio
+{
+background-position:0px -568px;
+width:252px;
+height:71px;
+}
+
+
+#navigation a .hover
+{
+background-image:url(../images/LeftBar.png);
+
+}
+
+#navigation a.lostfound:hover
+{
+background-position:-252px 0px;
+width:252px;
+height:71px;
+}
+
+#navigation a.timetables:hover
+{
+background-position:-252px -71px;
+width:252px;
+height:71px;
+}
+
+#navigation a.desk:hover
+{
+background-position:-252px -142px;
+width:252px;
+height:71px;
+}
+
+#navigation a.dating:hover
+{
+background-position:-252px -213px;
+width:252px;
+height:71px;
+}
+
+#navigation a.buysell:hover
+{
+background-position:-252px -284px;
+width:252px;
+height:71px;
+}
+
+#navigation a.study:hover
+{
+background-position:-252px -355px;
+width:252px;
+height:71px;
+}
+
+#navigation a.buzz:hover
+{
+background-position:-252px -426px;
+width:252px;
+height:71px;
+}
+
+#navigation a.gamesquizzes:hover
+{
+background-position:-252px -497px;
+width:252px;
+height:71px;
+}
+
+#navigation a.radio:hover
+{
+background-position:-252px -568px;
+width:252px;
+height:71px;
+}
+
+#topbar li
+{
+display:inline;
+position:absolute;
+top: 0px;
+left: 254px;
+}
+
+#topbar li a
+{
+background-image:url(../button.php);
+display:block;
+}
+
+.one
+{
+background-position:0px 0px;
+width: 179px;
+height: 216px;
+}
+
+.two
+{
+background-position:0px 0px;
+width: 179px;
+height: 216px;
+}
